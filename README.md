@@ -1,4 +1,7 @@
-# api documentation for  [google-distance (v1.0.1)](https://github.com/edwlook/node-google-distance)  [![npm package](https://img.shields.io/npm/v/npmdoc-google-distance.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-google-distance) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-google-distance.svg)](https://travis-ci.org/npmdoc/node-npmdoc-google-distance)
+# npmdoc-google-distance
+
+#### api documentation for  [google-distance (v1.0.1)](https://github.com/edwlook/node-google-distance)  [![npm package](https://img.shields.io/npm/v/npmdoc-google-distance.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-google-distance) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-google-distance.svg)](https://travis-ci.org/npmdoc/node-npmdoc-google-distance)
+
 #### A simple node.js wrapper for Google's Distance Matrix API
 
 [![NPM](https://nodei.co/npm/google-distance.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/google-distance)
@@ -63,7 +66,8 @@
     "scripts": {
         "test": "mocha --timeout 10000 test/*.js"
     },
-    "version": "1.0.1"
+    "version": "1.0.1",
+    "bin": {}
 }
 ```
 
